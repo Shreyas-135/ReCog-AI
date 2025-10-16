@@ -41,7 +41,7 @@ get it from https://nodejs.org/en/
 
 #### 2. Clone this repository
 ```
-git clone https://github.com/ajyounguk/img-rekog
+git clone https://github.com/Shreyas-135/ReCog-AI
 ```
 
 #### 3. Install project modules/dependencies

@@ -1,6 +1,5 @@
-# Rekog-AI - Image Recognition
+# ReCog-AI 
 
-## What is this?
 A web app that allows you to use Amazon's rekognition AI service to analyse images. 
 
 The app is written in Node.js and uses the Amazon Rekognition AI service to perform the image recognition and analysis. 
@@ -12,11 +11,6 @@ See https://aws.amazon.com/rekognition/ for details
 - get textual description (labels) for image
 - extract text and words from image 
 - get face details including sentiment analysis (happy, sad, calm, etc.)
-
-## Screenshots
-![Alt text](/screenshots/labels.png?raw=true)
-![Alt text](/screenshots/text.png?raw=true)
-![Alt text](/screenshots/face.png?raw=true)
 
 ## Repo Contents
 - /config = example aws creds config file
